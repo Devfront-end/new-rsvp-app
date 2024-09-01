@@ -1,0 +1,32 @@
+{
+  "name": "rsvp-app-client",
+  "version": "1.0.0",
+  "description": "RSVP app client",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.7",
+    "postcss": "^8.4.42",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.3.0",
+    "@typescript-eslint/parser": "^8.3.0",
+    "eslint": "^9.9.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.35.0",
+    "prettier": "^3.3.3"
+  }
+}
